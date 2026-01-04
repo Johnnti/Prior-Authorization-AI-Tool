@@ -1,0 +1,21 @@
+# Prior Authorization AI Tool - Requirements
+
+# PDF Processing
+pdfplumber>=0.10.0
+pymupdf>=1.23.0
+Pillow>=10.0.0
+
+# AI Providers
+openai>=1.0.0
+anthropic>=0.18.0
+
+# API Server
+fastapi>=0.109.0
+uvicorn>=0.27.0
+python-multipart>=0.0.6
+
+# Data Validation
+pydantic>=2.0.0
+
+# Utilities
+python-dotenv>=1.0.0
